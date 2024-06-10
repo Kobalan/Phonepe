@@ -27,21 +27,23 @@ to display the data in an interactive and visually appealing manner.
 5. Fetch the data from the MySQL database to display in the dashboard.
 6. Provide at least 10 different dropdown options for users to select different
 facts and figures to display on the dashboard.
+
 The solution must be secure, efficient, and user-friendly. The dashboard must be
 easily accessible and provide valuable insights and information about the data in the
 Phonepe pulse Github repository.
 
 <h1>Approach:</h1>
+
 1. Data extraction: Clone the Github using scripting to fetch the data from the
 Phonepe pulse Github repository and store it in a suitable format such as CSV
-or JSON.
+or JSON. <br>
 2. Data transformation: Use a scripting language such as Python, along with
 libraries such as Pandas, to manipulate and pre-process the data. This may
 include cleaning the data, handling missing values, and transforming the data
-into a format suitable for analysis and visualization.
+into a format suitable for analysis and visualization.<br>
 3. Database insertion: Use the "mysql-connector-python" library in Python to
 connect to a MySQL database and insert the transformed data using SQL
-commands.
+commands.<br>
 
 4. Dashboard creation: Use the Streamlit and Plotly libraries in Python to create
 an interactive and visually appealing dashboard. Plotly's built-in geo map
