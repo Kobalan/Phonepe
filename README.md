@@ -10,10 +10,6 @@
 
 ## General workflow of this Project:
 ![PhonePe Design](https://github.com/pnraj/Projects/assets/29162796/b97ce7b9-634a-4612-bef7-77369b4a89c6)
-## Dashboard Preview
-<p align="center">
-  <img src="https://github.com/pnraj/Projects/assets/29162796/d183e86b-4d47-4b3a-906f-bb20ea3de9a6" alt="Description of the image">
-</p>
 
 <h1>Problem Statement:</h1>
 The Phonepe pulse Github repository contains a large amount of data related to
